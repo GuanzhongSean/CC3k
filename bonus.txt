@@ -1,0 +1,15 @@
+In our vision of CC3K, there are following additional features we applied:
+1. Save the game
+    User can save the current game with the command of "S", and then type the
+    name of the file(if its already exist, then it will be overwrite; else a
+    new file will be create).
+2. Seed
+    Seed has been set in the game, excute the game without any args.
+3. loadfile
+    User can load archive, provide the filename to the args.
+4. reload saved game
+    User can provide there archive name and the second command line argrument "read"
+    to play there saved game
+5. Cheat code
+    A Cheat code "t" is added in the game, by providing the row and col, 
+    for example "t0123", player can transfer to that spot.
