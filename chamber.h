@@ -1,5 +1,5 @@
 #ifndef _CHAMBER_H_
-#define _CHANBER_H_
+#define _CHAMBER_H_
 
 #include <vector>
 
